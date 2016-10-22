@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="132" started-at="2016-10-07T07:01:46Z" finished-at="2016-10-07T07:01:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="132" started-at="2016-10-07T07:01:46Z" finished-at="2016-10-07T07:01:47Z">
+      <class name="InterviewAlgorithmsPackage.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:InterviewAlgorithmsPackage.NewTest@387c703b]" name="beforeClass" is-config="true" duration-ms="41" started-at="2016-10-07T00:01:46Z" finished-at="2016-10-07T00:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="myTest(int)[pri:0, instance:InterviewAlgorithmsPackage.NewTest@387c703b]" name="myTest" duration-ms="34" started-at="2016-10-07T00:01:46Z" data-provider="Jos" finished-at="2016-10-07T00:01:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest(int)[pri:0, instance:InterviewAlgorithmsPackage.NewTest@387c703b]" name="myTest" duration-ms="0" started-at="2016-10-07T00:01:47Z" data-provider="Jos" finished-at="2016-10-07T00:01:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:InterviewAlgorithmsPackage.NewTest@387c703b]" name="afterClass" is-config="true" duration-ms="1" started-at="2016-10-07T00:01:47Z" finished-at="2016-10-07T00:01:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- InterviewAlgorithmsPackage.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
